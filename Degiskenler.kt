@@ -16,6 +16,7 @@ fun main() {
     var medeniDurum = "Evli"
     var urunYorum = "Cok iyi bir urun"
     var odemeTarihi = "24.04.2025"
+    var odeme = "nakit"
     var siparisAdeti = 5
     var arabaModeli = "Toyota Corolla"
     var kitapAdi = "Kotlin Programlama"
@@ -63,6 +64,7 @@ fun main() {
     println("Medeni Durum: $medeniDurum")
     println("Urun Yorum: $urunYorum")
     println("Odeme Tarihi: $odemeTarihi")
+    println("odeme: $odeme"
     println("Siparis Adeti: $siparisAdeti")
     println("Araba Modeli: $arabaModeli")
     println("Kitap Adi: $kitapAdi")
